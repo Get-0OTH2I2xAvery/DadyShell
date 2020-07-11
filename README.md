@@ -1,2 +1,3 @@
 # DadyShell
-Petit shell uploader "csrf"
+Petit cocquin ! :)
+
